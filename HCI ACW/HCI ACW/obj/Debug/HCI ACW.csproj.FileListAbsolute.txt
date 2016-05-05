@@ -1,0 +1,18 @@
+E:\Visual studio\C#\Visual Studio 2015\Projects\HCI ACW\HCI ACW\bin\Debug\HCI ACW.exe.config
+E:\Visual studio\C#\Visual Studio 2015\Projects\HCI ACW\HCI ACW\bin\Debug\HCI ACW.exe
+E:\Visual studio\C#\Visual Studio 2015\Projects\HCI ACW\HCI ACW\bin\Debug\HCI ACW.pdb
+E:\Visual studio\C#\Visual Studio 2015\Projects\HCI ACW\HCI ACW\obj\Debug\HCI ACW.csprojResolveAssemblyReference.cache
+E:\Visual studio\C#\Visual Studio 2015\Projects\HCI ACW\HCI ACW\obj\Debug\HCI ACW.exe
+E:\Visual studio\C#\Visual Studio 2015\Projects\HCI ACW\HCI ACW\obj\Debug\HCI ACW.pdb
+\\data.adir.hull.ac.uk\home5\516\516747\Desktop\HCI ACW\HCI ACW\bin\Debug\HCI ACW.exe.config
+\\data.adir.hull.ac.uk\home5\516\516747\Desktop\HCI ACW\HCI ACW\obj\Debug\HCI ACW.exe
+\\data.adir.hull.ac.uk\home5\516\516747\Desktop\HCI ACW\HCI ACW\obj\Debug\HCI ACW.pdb
+\\data.adir.hull.ac.uk\home5\516\516747\Desktop\HCI ACW\HCI ACW\bin\Debug\HCI ACW.exe
+\\data.adir.hull.ac.uk\home5\516\516747\Desktop\HCI ACW\HCI ACW\bin\Debug\HCI ACW.pdb
+\\data.adir.hull.ac.uk\home5\516\516747\Desktop\HCI ACW\HCI ACW\obj\Debug\HCI ACW.csprojResolveAssemblyReference.cache
+G:\Visual Studio 2015\Projects\HCI ACW\HCI ACW\bin\Debug\HCI ACW.exe.config
+G:\Visual Studio 2015\Projects\HCI ACW\HCI ACW\obj\Debug\HCI ACW.exe
+G:\Visual Studio 2015\Projects\HCI ACW\HCI ACW\obj\Debug\HCI ACW.pdb
+G:\Visual Studio 2015\Projects\HCI ACW\HCI ACW\bin\Debug\HCI ACW.exe
+G:\Visual Studio 2015\Projects\HCI ACW\HCI ACW\bin\Debug\HCI ACW.pdb
+G:\Visual Studio 2015\Projects\HCI ACW\HCI ACW\obj\Debug\HCI ACW.csprojResolveAssemblyReference.cache
